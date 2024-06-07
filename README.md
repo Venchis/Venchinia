@@ -1,21 +1,23 @@
-on:
-  release:
-    types: [published]
+# Project Title
 
-jobs:
-  github-releases-to-discord:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Github Releases To Discord
-        uses: SethCohen/github-releases-to-discord@v1.13.1
-        with:
-          webhook_url: ${{ secrets.WEBHOOK_URL }}
-          color: "2105893"
-          username: "Release Changelog"
-          avatar_url: "https://cdn.discordapp.com/avatars/487431320314576937/bd64361e4ba6313d561d54e78c9e7171.png"
-          content: "||@everyone||"
-          footer_title: "Changelog"
-          footer_icon_url: "https://cdn.discordapp.com/avatars/487431320314576937/bd64361e4ba6313d561d54e78c9e7171.png"
-          footer_timestamp: true
+🚀 Welcome to Project Title! This project aims to [brief project description].
+
+## Table of Contents
+
+- [About](#about)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## ℹ️ About
+
+Project Title is a [brief description of the project]. It was created with the intention of [mention project goals or purpose].
+
+## 💻 Installation
+
+To install Project Title, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/project-title.git
