@@ -2,14 +2,6 @@
 
 🚀 I am programming my Discord bot as it fills me with joy and passion for programming, and I aim to improve my skills in this field.
 
-## Table of Contents
-
-- [About](#about)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## ℹ️ About
 
 This project consists of programming a Discord bot. The files provided here may not always function flawlessly due to occasional errors. Nevertheless, I make them publicly available, but I recommend using them with caution.
@@ -24,23 +16,15 @@ To install the Discord Bot Project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/project-title.git
+   git clone https://github.com/Venchis/Venchinia.git
 
 2. Navigate to the directory:
-
 cd project-title
-Install dependencies:
+
+3. Install dependencies:
 
 ```
 npm install
-```
-📝 Usage
-To use the Discord Bot Project, follow these steps:
-
-Edit the configuration file with your bot token and other settings.
-Run the bot using:
-```
-node index.js
 ```
 
 🤝 Contributing
