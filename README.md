@@ -21,7 +21,7 @@ Also, as you may have noticed, this bot is customized and based on the template 
 
 ## 💻 Installation
 1. Install a code editor ([Visual Studio Code](https://code.visualstudio.com/Download) for an example).
-2. Download this project as a **.zip** file: ```[Download](git clone https://github.com/Venchis/Venchinia.git)```
+2. Download this project as a **.zip** file: [Download](git clone https://github.com/Venchis/Venchinia.git)
 3. Extract the **.zip** file into a normal folder.
 4. Open your code editor, click on **Open Folder**, and select the new created folder.
 5. Rename the following files:
